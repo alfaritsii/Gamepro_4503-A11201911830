@@ -1,0 +1,40 @@
+Moch. Rifqi Alfaritsi
+A11.2019.11830
+Gamepro A11.4503
+
+Komponen
+
+Cube:
+- Transform
+- Cube (Mesh Filter)
+- Mesh Renderer
+- Box Collider
+- Material
+
+Sphere:
+- Transform
+- Sphere (Mesh Filter)
+- Mesh Renderer
+- Sphere Collider
+- Material
+
+Capsule:
+- Transform 
+- Capsule (Mesh Filter)
+- Mesh Renderer 
+- Capsule Collider
+- Material
+
+Quad:
+- Tansform 
+- Quad (Mesh Filter)
+- Mesh Renderer
+- Mesh Collider
+- Material
+
+Plane:
+- Transform
+- Plane (Mesh Filter)
+- Mesh Renderer
+- Mesh Collider
+- Material
